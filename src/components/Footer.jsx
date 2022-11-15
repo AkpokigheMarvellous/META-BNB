@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="flex text-white space-x-10 md:justify-start justify-center">
               <i className="fab fa-facebook-f"></i>
               <i className="fab fa-instagram"></i>
-              <i className="fab fa-twitter"></i>
+              
             </div>
 
             <div className="">
