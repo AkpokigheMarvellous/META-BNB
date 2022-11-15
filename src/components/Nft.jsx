@@ -14,7 +14,7 @@ const Nft = () => {
         </p>
         <div className="flex justify-center md:justify-start">
           <button className="bg-white text-primary py-3 px-7 rounded-md">
-            Learn more
+            
           </button>
         </div>
       </div>
